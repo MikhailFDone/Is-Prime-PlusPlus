@@ -76,6 +76,7 @@ inline const uint64_t* positions_of_uint32_primes[] = {
 	positions_of_uint32_primes_chunk9,
 	positions_of_uint32_primes_chunk10,
 	positions_of_uint32_primes_chunk11,
+	positions_of_uint32_primes_chunk12,
 	positions_of_uint32_primes_chunk13,
 	positions_of_uint32_primes_chunk14,
 	positions_of_uint32_primes_chunk15,
